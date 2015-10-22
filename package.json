@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-closuredepth",
+  "version": "1.0.0",
+  "description": "Eslint plugin in order to provide warnings closure depth",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peteward44/eslint-plugin-closuredepth.git"
+  },
+  "keywords": [
+    "eslint",
+	"eslintplugin"
+  ],
+  "author": "Pete Ward <peteward44@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peteward44/eslint-plugin-closuredepth/issues"
+  },
+  "homepage": "https://github.com/peteward44/eslint-plugin-closuredepth",
+  "devDependencies": {
+    "eslint": "^1.7.3"
+  }
+}
