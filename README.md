@@ -32,7 +32,7 @@ Add the rule, where 'limit' is your desired maximum depth
 ```json
 {
   "rules": {
-    "closuredepth/closuredepth": [ 2, { limit: 3 } ]
+    "closuredepth/closuredepth": [ 2, { "limit": 3 } ]
   }
 }
 ```
