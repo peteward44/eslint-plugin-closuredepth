@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-closuredepth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint plugin in order to provide warnings closure depth",
   "main": "index.js",
   "scripts": {

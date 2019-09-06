@@ -1,4 +1,7 @@
 # eslint-plugin-closuredepth
+
+***This project is no longer maintained***
+
 Eslint plugin in order to provide warnings closure depth, and you can avoid the associated performance penalties
 
 # Installation
